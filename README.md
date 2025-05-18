@@ -1,3 +1,4 @@
 # samreen-demo
-this is my first git repository 
-author samreen kaur 
+This is my first git repository .
+<br>
+Author Samreen kaur 
